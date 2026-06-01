@@ -40,7 +40,7 @@ world editor, or a scripting engine on Minecraft 26.1.2, start here.
 | [HuskHomes-Folia](https://github.com/REZANANS-yep/HuskHomes-Folia) | Homes, warps, /tpa and cross-server teleportation | [William278/HuskHomes](https://github.com/WiIIiam278/HuskHomes) | Apache-2.0 | Production |
 | [CitizensCMD-Folia](https://github.com/REZANANS-yep/CitizensCMD-Folia) | Run commands when a player clicks a Citizens NPC | [HexedHero/CitizensCMD](https://github.com/HexedHero/CitizensCMD) | GPL-3.0 | Production |
 | [ExcellentEconomy-Folia](https://github.com/REZANANS-yep/ExcellentEconomy-Folia) | Unlimited custom currencies and a Vault economy | [nulli0n/ExcellentEconomy](https://github.com/nulli0n/ExcellentEconomy) | GPL-3.0 | Production |
-| [WorldEdit-Folia](https://github.com/REZANANS-yep/WorldEdit-Folia) | Map editor - command fix only (`/up`, `/jumpto`, `/thru`, `/ascend`, `/descend`, `/unstuck` no longer crash on region threading) | [EngineHub/WorldEdit](https://github.com/EngineHub/WorldEdit) | GPL-3.0 | Production |
+| [WorldEdit-Folia](https://github.com/REZANANS-yep/WorldEdit-Folia) | Map editor - Folia/Canvas adaptation (`/up`, `/jumpto`, `/thru`, `/ascend`, `/descend`, `/unstuck` no longer crash on region threading) | [EngineHub/WorldEdit](https://github.com/EngineHub/WorldEdit) | GPL-3.0 | Production |
 | [Denizen-Folia](https://github.com/REZANANS-yep/Denizen-Folia) | The Denizen scripting engine | [DenizenScript/Denizen](https://github.com/DenizenScript/Denizen) | MIT | Experimental |
 | [Denizen-Core-Folia](https://github.com/REZANANS-yep/Denizen-Core-Folia) | DenizenCore, required to build Denizen-Folia | [DenizenScript/Denizen-Core](https://github.com/DenizenScript/Denizen-Core) | MIT | Experimental |
 
